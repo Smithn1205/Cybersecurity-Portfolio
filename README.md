@@ -12,7 +12,7 @@ This repository is the main entry point to my hands-on work. I keep the projects
 
 I am currently finishing my **M.Sc. in Computer Science / Cybersecurity at SRH Berlin** and using my project time to build practical experience with security monitoring, investigation, cloud security, and KQL.
 
-What I enjoy most is the investigation process: starting with a clue, following the evidence across different logs, building a timeline, and deciding what the activity means.
+What I enjoy most is the investigation process: starting with a clue, following the evidence across different logs and tools, building a timeline, and deciding what the activity means.
 
 ---
 
@@ -40,7 +40,7 @@ This is the repository I use to show work that I build and investigate myself.
 
 ### 🔎 KC7 Security Investigations
 
-**Investigation practice using KC7 scenarios and log datasets.**
+**Investigation practice using KC7 scenarios, log datasets, and analyst tools.**
 
 [View the KC7 Security Investigations →](https://github.com/Smithn1205/KC7-Security-Investigations)
 
@@ -48,8 +48,11 @@ So far I have documented:
 
 - **CloutHaus: Social Media Leads to Compromise**
 - **A Scandal in Valdoria: A Political Mystery**
+- **VirusTotal Fundamentals**
 
-These investigations have given me more practice correlating authentication, email, network, DNS, file, and process data while working through a case from the first clue to the final conclusion.
+The VirusTotal investigation added more hands-on practice with **malware triage, file metadata, certificate analysis, YARA/Sigma detections, sandbox behavior, passive DNS, and indicator pivoting**.
+
+Together, these investigations are helping me get more comfortable moving between authentication, email, network, DNS, file, process, malware-analysis, and threat-intelligence data while working through a case from the first clue to the final conclusion.
 
 ---
 
@@ -58,9 +61,10 @@ These investigations have given me more practice correlating authentication, ema
 | Area | Tools / Technologies |
 |---|---|
 | SIEM & Detection | Microsoft Sentinel, KQL, Splunk / SPL |
+| Malware & Threat Intelligence | VirusTotal, YARA, Sigma, passive DNS, sandbox analysis |
 | Microsoft Security | Microsoft Defender XDR, Microsoft Entra ID |
 | Cloud & Network Security | Azure, AWS, Cloudflare, Zero Trust, SASE |
-| Investigation | Authentication, process, network, DNS, email, and file events |
+| Investigation | Authentication, process, network, DNS, email, file, registry, and malware behavior |
 | Systems | Windows, Linux |
 | Scripting | Python, Bash, PowerShell |
 | Frameworks | MITRE ATT&CK |
@@ -73,7 +77,7 @@ I try to keep my write-ups close to how I would want to read an investigation as
 
 **Clue → evidence → pivots → timeline → conclusion → response**
 
-I do not want this portfolio to become a collection of screenshots with no explanation. Where possible, I include the query I used, what I expected to find, what the result told me, and why I moved to the next step.
+I do not want this portfolio to become a collection of screenshots with no explanation. Where possible, I include the query or tool I used, what I expected to find, what the result told me, and why I moved to the next step.
 
 ---
 
