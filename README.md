@@ -12,6 +12,8 @@ This repository is the main entry point to my hands-on work. I keep the projects
 
 I am currently finishing my **M.Sc. in Computer Science / Cybersecurity at SRH Berlin** and using my project time to build practical experience with security monitoring, investigation, cloud security, and KQL.
 
+My Master's thesis, **SASE vs. Traditional Zero Trust: A Comparative Analysis for Small and Medium Enterprises**, adds a security-architecture side to that work, with a focus on how different approaches fit the technical and operational needs of SMEs.
+
 What I enjoy most is the investigation process: starting with a clue, following the evidence across different logs and tools, building a timeline, and deciding what the activity means.
 
 ---
@@ -56,6 +58,14 @@ Together, these investigations are helping me get more comfortable moving betwee
 
 ---
 
+### 🧩 Security Architecture Research
+
+My Master's thesis looks at **SASE and traditional Zero Trust approaches for small and medium enterprises**, including how identity-focused and network-focused security models differ in areas such as access control, segmentation, operational fit, and cost transparency.
+
+The work includes a structured comparison of **Microsoft Entra ID P2** and a defined **Cato SASE** configuration under a representative SME scenario. I keep the thesis itself separate from my public technical labs, but the research strengthens the cloud, identity, Zero Trust, and security-architecture side of my portfolio.
+
+---
+
 ## Tools & Technologies
 
 | Area | Tools / Technologies |
@@ -89,14 +99,14 @@ My main technical interests are:
 - Incident Response
 - Cloud Security
 - Identity and Access Management
-- Zero Trust
+- Zero Trust and SASE
 - Microsoft security technologies
 
 I am especially interested in roles where I can keep developing both **cloud / identity security** and **detection / investigation** skills.
 
 ---
 
-## Repository Map
+## Portfolio Map
 
 ```text
 Cybersecurity-Portfolio        ← you are here
@@ -104,14 +114,13 @@ Cybersecurity-Portfolio        ← you are here
 ├── SOC-Incident-Response-Lab
 │   └── self-built SOC and incident-response investigations
 │
-└── KC7-Security-Investigations
-    └── structured security investigation practice
+├── KC7-Security-Investigations
+│   └── structured security investigation and malware-triage practice
+│
+└── Master's Thesis / Security Architecture Research
+    └── SASE vs. Traditional Zero Trust for SMEs
 ```
 
 ---
 
-## A Small Note
-
-This portfolio is still growing.
-
-I would rather add a smaller number of investigations that I can explain properly than fill GitHub with dozens of shallow lab summaries. As I learn something new, I will keep adding the work that best shows how I think through security problems.
+I focus on documenting a smaller number of investigations in enough depth to show how I approach security problems, rather than filling the portfolio with shallow lab summaries.
