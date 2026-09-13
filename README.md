@@ -92,6 +92,17 @@ I am especially interested in roles where I can keep developing both **cloud / i
 
 ---
 
+## Education & Certification
+
+A little context behind the projects:
+
+- **M.Sc. Computer Science / Cybersecurity — SRH Berlin** *(in progress)*
+- **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**
+
+I keep the full education and certification history on my CV and LinkedIn; this section is just here to give the technical work some context.
+
+---
+
 ## Repository Map
 
 ```text
