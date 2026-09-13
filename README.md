@@ -53,16 +53,6 @@ These investigations have given me more practice correlating authentication, ema
 
 ---
 
-### 🧪 TryHackMe Security Labs
-
-**Coming next.**
-
-I plan to keep my TryHackMe work in its own repository and add only the labs that are worth documenting — not every room I complete.
-
-The focus will be on practical SOC, detection, Windows, Active Directory, cloud, and incident-response exercises that add something new to the portfolio.
-
----
-
 ## Tools & Technologies
 
 | Area | Tools / Technologies |
@@ -110,11 +100,8 @@ Cybersecurity-Portfolio        ← you are here
 ├── SOC-Incident-Response-Lab
 │   └── self-built SOC and incident-response investigations
 │
-├── KC7-Security-Investigations
-│   └── structured security investigation practice
-│
-└── TryHackMe-Security-Labs
-    └── planned hands-on security lab write-ups
+└── KC7-Security-Investigations
+    └── structured security investigation practice
 ```
 
 ---
