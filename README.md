@@ -44,13 +44,16 @@ This is the repository I use to show work that I build and investigate myself.
 
 [View the KC7 Security Investigations →](https://github.com/Smithn1205/KC7-Security-Investigations)
 
-So far I have documented:
+I have now completed the **KC7 Security Analyst I** path — **7 of 7 modules (100%)**.
+
+Documented investigations include:
 
 - **CloutHaus: Social Media Leads to Compromise**
 - **A Scandal in Valdoria: A Political Mystery**
 - **VirusTotal Fundamentals**
+- **Jojo's Hospital: A Ransomware Investigation**
 
-The VirusTotal investigation added more hands-on practice with **malware triage, file metadata, certificate analysis, YARA/Sigma detections, sandbox behavior, passive DNS, and indicator pivoting**.
+Across these investigations I practiced **KQL, authentication analysis, process investigation, malware triage, VirusTotal, passive DNS, command-and-control analysis, data staging, exfiltration, and attack-timeline reconstruction**.
 
 Together, these investigations are helping me get more comfortable moving between authentication, email, network, DNS, file, process, malware-analysis, and threat-intelligence data while working through a case from the first clue to the final conclusion.
 
